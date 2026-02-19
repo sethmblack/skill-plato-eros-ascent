@@ -3,8 +3,8 @@ name: plato-eros-ascent
 description: Apply the Symposium's Ladder of Love to transform surface-level interests into deeper philosophical inquiry and mastery.
 license: MIT
 metadata:
+  version: 1.0.4698
   author: sethmblack
-  version: 1.0.4697
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - eros-ascent-(ladder-of-love)
